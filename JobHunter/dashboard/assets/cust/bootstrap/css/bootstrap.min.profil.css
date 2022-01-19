@@ -1,0 +1,27 @@
+.rounded-circle {
+    border-radius: 50%!important;
+}
+
+.sidebar .nav-item .nav-link .img-profile,
+.topbar .nav-item .nav-link .img-profile {
+    height: 2rem;
+    width: 2rem;
+}
+
+img {
+    border-style: none;
+    vertical-align: middle;
+    margin-right: 20px;
+}
+
+.profil {
+    /* border: 1px solid red; */
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.profil_image {
+    border-radius: 50%;
+    /* border-radius: calc(.35rem - 1px); */
+    width: 40px;
+}
